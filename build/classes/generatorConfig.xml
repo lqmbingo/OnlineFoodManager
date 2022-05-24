@@ -4,7 +4,7 @@
         "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
 <generatorConfiguration>
 
-    <!-- 当前电脑的数据库驱动程序jar包的全路径 -->
+     <!-- 当前电脑的数据库驱动程序jar包的全路径 -->
     <classPathEntry location="D:\Program Files\maven\maven-repository\mysql\mysql-connector-java\5.1.6\mysql-connector-java-5.1.6.jar"/>
 
     <context id="context" targetRuntime="MyBatis3">
