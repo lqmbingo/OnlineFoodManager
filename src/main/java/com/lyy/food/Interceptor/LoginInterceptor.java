@@ -31,7 +31,7 @@ public class LoginInterceptor extends HandlerInterceptorAdapter {
      */
     @Override
     public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler) throws Exception {
-        /**
+         /**
          *   不需要登录也可以访问的
          *       注册，登录，产品，首页，分类，查询等等
          *   需要登录才能够访问的
